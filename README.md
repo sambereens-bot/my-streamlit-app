@@ -1,4 +1,4 @@
-# Project Name: [Street Souls Rescue]
+# Project Name: Street Souls Rescue
 
 ## Executive Summary
 [Our platform bridges the gap between public awareness and life-saving action by providing a real-time reporting system that mobilizes volunteers directly to the locations of animals in distress. By streamlining the transition from a sighting to a physical rescue, we ensure that vulnerable animals are quickly located, secured, and transitioned into care. This community-driven ecosystem fosters transparency through a public display of saved animals, proving that immediate intervention saves lives.]
